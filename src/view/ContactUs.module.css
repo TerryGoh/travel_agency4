@@ -1,0 +1,20 @@
+
+.headerText {
+    background-color: grey; 
+    text-align: center; 
+    font-size:19px; 
+    font-weight:bold; 
+    color: aqua;
+    border-radius: 5px;
+    margin-bottom: 40px ;
+} 
+
+.submitErr {
+    margin-left: 500px; 
+    margin-top :-500px ;
+}
+
+.submitOK {
+    margin-left: 300px; 
+    margin-top :-500px ;
+}

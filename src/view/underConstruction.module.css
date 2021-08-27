@@ -1,0 +1,15 @@
+
+.img {
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    background-image: url("./../images/website-under_construction.jpg");
+    width: 100vw;
+    height : 400px;
+    margin-left: -10px;
+    margin-right: auto;
+    margin-top: -30px;
+ 
+    
+} 
+  

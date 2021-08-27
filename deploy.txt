@@ -1,0 +1,3 @@
+git init
+git remote add origin git@github.com:TerryGoh/travel_agency1.git
+npm run deploy
