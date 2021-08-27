@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/travel_agency4/static/css/main.9e2e436a.chunk.css",
+    "main.js": "/travel_agency4/static/js/main.101c9495.chunk.js",
+    "main.js.map": "/travel_agency4/static/js/main.101c9495.chunk.js.map",
+    "runtime-main.js": "/travel_agency4/static/js/runtime-main.e4f7fe2b.js",
+    "runtime-main.js.map": "/travel_agency4/static/js/runtime-main.e4f7fe2b.js.map",
+    "static/js/2.77199f62.chunk.js": "/travel_agency4/static/js/2.77199f62.chunk.js",
+    "static/js/2.77199f62.chunk.js.map": "/travel_agency4/static/js/2.77199f62.chunk.js.map",
+    "index.html": "/travel_agency4/index.html",
+    "precache-manifest.d98a0d40828021bf03b58ece3904c051.js": "/travel_agency4/precache-manifest.d98a0d40828021bf03b58ece3904c051.js",
+    "service-worker.js": "/travel_agency4/service-worker.js",
+    "static/css/main.9e2e436a.chunk.css.map": "/travel_agency4/static/css/main.9e2e436a.chunk.css.map",
+    "static/js/2.77199f62.chunk.js.LICENSE.txt": "/travel_agency4/static/js/2.77199f62.chunk.js.LICENSE.txt",
+    "static/media/Default_Jumbotron.jpg": "/travel_agency4/static/media/Default_Jumbotron.e2e740f5.jpg",
+    "static/media/Taiwan_1.png": "/travel_agency4/static/media/Taiwan_1.77b5d8c3.png",
+    "static/media/Taiwan_2.png": "/travel_agency4/static/media/Taiwan_2.51bcd342.png",
+    "static/media/Taiwan_3.png": "/travel_agency4/static/media/Taiwan_3.e989cd15.png",
+    "static/media/Taiwan_4.png": "/travel_agency4/static/media/Taiwan_4.b75a1fb5.png",
+    "static/media/Taiwan_Jumbotron.jpg": "/travel_agency4/static/media/Taiwan_Jumbotron.a78f271f.jpg",
+    "static/media/Thai_1.png": "/travel_agency4/static/media/Thai_1.a9d2285c.png",
+    "static/media/Thai_2.png": "/travel_agency4/static/media/Thai_2.c8eca3c8.png",
+    "static/media/Thai_3.png": "/travel_agency4/static/media/Thai_3.f602a7ae.png",
+    "static/media/Thai_Jumbotron.jpg": "/travel_agency4/static/media/Thai_Jumbotron.4aebc0d9.jpg",
+    "static/media/contact_us.jpg": "/travel_agency4/static/media/contact_us.01dfa1d2.jpg",
+    "static/media/free_n_easy.jpg": "/travel_agency4/static/media/free_n_easy.5dc917f6.jpg",
+    "static/media/home.jpg": "/travel_agency4/static/media/home.62a22de9.jpg",
+    "static/media/membership.jpg": "/travel_agency4/static/media/membership.f88f52f7.jpg",
+    "static/media/style.scss": "/travel_agency4/static/media/rsc.f9886ab6.svg",
+    "static/media/underConstruction.module.css": "/travel_agency4/static/media/website-under_construction.ead3c5bc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4f7fe2b.js",
+    "static/js/2.77199f62.chunk.js",
+    "static/css/main.9e2e436a.chunk.css",
+    "static/js/main.101c9495.chunk.js"
+  ]
+}

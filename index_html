@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>React App</title>
+</head>
+
+<body>
+  <p></p>
+  <p></p>
+  <div id="loanForm"></div>
+  <p></p>
+  <div id="compute"></div>
+  <p></p>
+  <div id="paymentInfo"></div>
+
+</body>
+
+</html>
